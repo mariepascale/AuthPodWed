@@ -1,0 +1,6 @@
+framework module Pods_AuthPodWed_Example {
+  umbrella header "Pods-AuthPodWed_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - AuthPodWed (0.1.0)
+
+DEPENDENCIES:
+  - AuthPodWed (from `../`)
+
+EXTERNAL SOURCES:
+  AuthPodWed:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AuthPodWed: 2286e118875f1b77cb1e7b7924cb6d2fc5926c3c
+
+PODFILE CHECKSUM: 551f1f02301dd737e124fe75f1d9ef28e75dd30f
+
+COCOAPODS: 1.6.2

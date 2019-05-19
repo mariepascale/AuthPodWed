@@ -1,5 +1,4 @@
 import XCTest
-import AuthPodWed
 
 class Tests: XCTestCase {
     

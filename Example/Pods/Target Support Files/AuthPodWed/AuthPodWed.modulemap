@@ -1,0 +1,6 @@
+framework module AuthPodWed {
+  umbrella header "AuthPodWed-umbrella.h"
+
+  export *
+  module * { export * }
+}

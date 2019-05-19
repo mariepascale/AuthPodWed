@@ -1,0 +1,26 @@
+{
+  "name": "AuthPodWed",
+  "version": "0.1.0",
+  "summary": "This is my first cocoapod This is a test.",
+  "homepage": "https://github.com/mariepascale/AuthPodWed",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mariepascale": "marie.pascale.chauvel@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mariepascale/AuthPodWed.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AuthPodWed/Classes/**/*",
+  "resource_bundles": {
+    "AuthPodWed": [
+      "AuthPodWed/Assets/*.png"
+    ]
+  }
+}
